@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to upgrade your skills?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your name</string>
+    <string name="pw_hint">Enter your password</string>
+    <string name="story">Story</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_story">Add Story</string>
+    <string name="yeah">Yeah!</string>
+    <string name="no">No!</string>
+    <string name="msg_login_s">You have successfully logged in!</string>
+    <string name="msg_login_e">"Login failed.\n""Check your email and password!"</string>
+    <string name="msg_signup_s">Your account has been successfully created!</string>
+    <string name="msg_signup_e">Your account failed to create.</string>
+    <string name="positive_btn">Next</string>
+    <string name="positive_btn_e">OK</string>
+    <string name="email_not_valid">Invalid email</string>
+    <string name="pw_not_valid">Password must not be less than 8 characters!</string>
+    <string name="image">Image</string>
+    <string name="no_media">No media selected</string>
+    <string name="permission_e">Permission is not granted</string>
+    <string name="permission_s">Permission is granted</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Maps</string>
+    <string name="retry">Retry</string>
+    <string name="location">Location</string>
+    <string name="mapStyle_e">Failed to load style maps</string>
+</resources>

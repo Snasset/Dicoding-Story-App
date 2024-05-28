@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/menu_language"
+            android:title="@string/language"
+            app:showAsAction="never"
+            />
+
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/logout"
+            app:showAsAction="never"/>
+
+        <item
+            android:icon="@drawable/ic_baseline_map_24"
+            android:id="@+id/menu_map"
+            android:title="@string/map"
+            app:showAsAction="ifRoom"/>
+
+    </group>
+</menu>
